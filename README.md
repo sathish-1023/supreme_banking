@@ -36,3 +36,21 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 <!-- shadcn/ui -->
+
+Sentry - https://bit.ly/4abT6PG
+
+First Project (Banking App Platform)
+🎨 Horizon Design Figma File: https://resource.jsmastery.pro/bankin...
+🧭 Logical Flow Diagram Fijam File: https://resource.jsmastery.pro/bankin...
+📚Materials/References:
+→ GitHub Repository (give it a star ⭐): https://github.com/adrianhajdin/banking
+→ README (assets & code): https://github.com/adrianhajdin/banki...
+→ Plaid: https://plaid.com/
+→ Dwolla sandbox account: https://accounts-sandbox.dwolla.com/l...
+
+
+favicon,global.css files,tailwind.config.css and lib,public folder
+
+assets: 
+https://drive.google.com/file/d/1TVhdnD97LajGsyaiNa6sDs-ap-z1oerA/view
+
